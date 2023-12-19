@@ -8,6 +8,25 @@ import time
 
 driver = webdriver.Chrome()
 
+config = {
+    # reel or new feed
+    'jobs': [
+        {
+            'name': 'new_feeds',
+            'time': 50
+        },
+        {
+            'name': 'like',
+            'delay-time': 5
+        }
+    ]
+}
+
+{
+    con:
+    acc
+}
+
 accounts = [
     {
     "uid": "61552572046652",
