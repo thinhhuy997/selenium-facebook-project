@@ -1,4 +1,4 @@
-from facebook import login, get_2FA_Code
+from facebook import login
 
 def main():
     login()
